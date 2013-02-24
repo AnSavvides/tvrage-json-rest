@@ -1,0 +1,16 @@
+  _  _    ___  _  _   
+ | || |  / _ \| || |  
+ | || |_| | | | || |_ 
+ |__   _| |_| |__   _|
+    |_|  \___/   |_|  
+
+Use one of the available endpoints which are as follows:
+
+* /search/<name>
+* /full_search/<name>
+* /show_info/<id>
+* /episode_list/<id>
+* /episode_info/<id>/<episode>
+* /full_show_info/<id>
+* /full_show_list
+* /fullschedule/<country>
