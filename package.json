@@ -1,0 +1,32 @@
+{
+    "name": "tvrage-json",
+    "description": "Series, you know, for watching.",
+    "version": "0.1.0",
+    "contributors": [
+        {
+            "name": "Andreas Savvides",
+            "email": "andreas@editd.com"
+        }
+    ],
+    "respository": {
+        "type": "git",
+        "url": "https://github.com/AnSavvides/series.git"
+    },
+    "keywords": [
+        "tvrage",
+        "json",
+        "rest",
+        "api"
+    ],
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+        "xml2js": "0.2.3",
+        "util": "0.4.9",
+        "request": "2.12.0",
+        "nodejs-tvrage": "0.3.0"
+    },
+    "engines": {
+        "node": ">=0.8.15"
+    }
+}
