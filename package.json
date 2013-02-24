@@ -23,8 +23,7 @@
         "express": "3.x",
         "xml2js": "0.2.3",
         "util": "0.4.9",
-        "request": "2.12.0",
-        "nodejs-tvrage": "0.3.0"
+        "request": "2.12.0"
     },
     "engines": {
         "node": ">=0.8.15"
