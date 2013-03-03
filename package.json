@@ -1,6 +1,6 @@
 {
-    "name": "tvrage-json",
-    "description": "Series, you know, for watching.",
+    "name": "tvrage-json-rest",
+    "description": "A simple and lightweight REST API wrapper around the TVRage web services.",
     "version": "0.1.0",
     "contributors": [
         {
